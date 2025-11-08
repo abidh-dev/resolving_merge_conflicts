@@ -11,3 +11,8 @@ def subtract(x,y):
     return x - y
 # function call
 print(subtract(x,y))
+#Multiplication
+def multiply(x,y):
+    return x * y
+# function call
+print(multiply(x,y))
