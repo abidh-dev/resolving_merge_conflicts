@@ -1,3 +1,3 @@
-r = "red"
+r = "white"
 g = "green"
 print(r + g)
