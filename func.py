@@ -16,3 +16,9 @@ def multiply(x,y):
     return x * y
 # function call
 print(multiply(x,y))
+
+#Division
+def divide(x,y):
+    return x / y
+# function call
+print(divide(x,y))
