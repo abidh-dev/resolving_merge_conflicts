@@ -22,3 +22,8 @@ def divide(x,y):
     return x / y
 # function call
 print(divide(x,y))
+#Modulus
+def modulus(x,y):
+    return x % y
+# function call
+print(modulus(x,y))
